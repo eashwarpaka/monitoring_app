@@ -1,0 +1,12 @@
+Analyzing monitoring_app...                                     
+
+  error - The method 'when' isn't defined for the type 'Stream' - lib\screens\admin\super_admin_dashboard.dart:52:38 - undefined_method
+  error - Target of URI doesn't exist: '../core/auth_service.dart' - lib\screens\auth\login_screen.dart:3:8 - uri_does_not_exist
+  error - Undefined name 'authServiceProvider' - lib\screens\auth\login_screen.dart:20:22 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\auth\login_screen.dart:44:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\auth\login_screen.dart:101:78 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\dashboard_card.dart:29:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\dashboard_card.dart:54:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\sales_chart_widget.dart:19:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\sales_chart_widget.dart:55:54 - deprecated_member_use
+
